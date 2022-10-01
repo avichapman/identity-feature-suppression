@@ -1,0 +1,9 @@
+scikit-learn
+Pillow
+scipy
+progressbar
+numpy
+torch
+torchvision
+progressbar2
+xgboost
