@@ -28,10 +28,6 @@ Parameters:
 - config_count: The number of experimental configurations to run in sequence.
 - trial_count: If more than one, multiple copies of an single experimental configuration will be run simultaneously. Useful if you have spare computer capacity.
 
-## Results
-
-TODO: Post results
-
 ## Citation
 
 If you find this code useful please cite us in your work:
